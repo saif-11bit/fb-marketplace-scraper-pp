@@ -1,6 +1,6 @@
-# FB Marketplace Scraper Privacy Policy
+# Marketplace scraper for facebook Privacy Policy
 
-Static privacy-policy site for the FB Marketplace Scraper Chrome extension.
+Static privacy-policy site for the Marketplace scraper for facebook Chrome extension.
 
 ## Publish with GitHub Pages
 
